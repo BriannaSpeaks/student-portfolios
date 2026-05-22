@@ -1,4 +1,4 @@
-📚 Sources & Further Reading
+Sources & Further Reading
 RT-2 Paper — arXiv 2307.15818
 Google DeepMind RT-2 Blog
 Google DeepMind — Shaping the Future of Advanced Robotics
